@@ -1,2 +1,2 @@
 # quantum-mechanics
-Some numerical method analyze quantum system 
+Some numerical method to analyze quantum system 
